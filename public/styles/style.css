@@ -187,3 +187,19 @@
     padding: 8px 7%;
     font-weight: bold;
 }
+
+.card-cadastro {
+    height: auto;
+
+    margin: 50px auto;
+
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #e5e5e5;
+
+}
+
+.card-cadastro .formulario {
+    gap: 20px;
+}
