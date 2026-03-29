@@ -5,6 +5,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    overflow-x: hidden; 
+}
+
 .header a,
 .header li {
     color: #967a5b;
